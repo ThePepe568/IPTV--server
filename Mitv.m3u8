@@ -1,0 +1,42 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/venezuelapremium.xml.gz"
+
+#EXTINF:-1 tvg-id="VENEVISION" tvg-name="VENEVISION" tvg-logo="https://i.ibb.co/R2SRW8w/Logotipo-de-Venevisi-n-svg.png" group-title="NACIONAL",VENEVISION
+http://dctv.pro:8080/live/b5cM99k7VA/3bHsDxDWmk/127279.ts
+#EXTINF:-1 tvg-id="TVES" tvg-name="TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="NACIONAL",TVES
+http://disfruta.net:80/live/richardactiva247/gwqUJUjvgE/37604.ts
+#EXTINF:-1 tvg-id="CANAL I" tvg-name="CANAL I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="NACIONAL",CANAi
+http://dctv.pro:8080/live/b5cM99k7VA/3bHsDxDWmk/157190.ts
+#EXTINF:-1 tvg-id="TELEVEN" tvg-name="TELEVEN" tvg-logo="https://i.ibb.co/48p7jFJ/images.png" group-title="NACIONAL",TELEVEN
+http://disfruta.net:80/live/richardactiva247/gwqUJUjvgE/33592.ts
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://i.ibb.co/RC3nv9P/Venezolana-de-Televisi-n-2018-svg.png" group-title="NACIONAL",VTV
+http://dctv.pro:8080/live/b5cM99k7VA/3bHsDxDWmk/127307.ts
+#EXTINF:-1 tvg-id="CONCIENCIA TV" tvg-name="CONCIENCIA TV" tvg-logo="https://https://i.ibb.co/w6dtT92/images-1.png" group-title="NACIONAL",CONCIENCIA 
+http://tr.simotvgold.com:80/live/Elias2022/2022Elias/529669.ts
+#EXTINF:-1 tvg-id="TVEPACO" tvg-name="TVEPACO"tvg-logo="https://i.ibb.co/Bnr15Q3/descarga.png" group-title="NACIONAL",VEPACOTV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="https://i.ibb.co/64LT9N0/descarga-1.png" group-title="NACIONAL",VALE TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="FANB TV" tvg-name="FANB TV" tvg-logo="https://i.ibb.co/p3kRvT4/tvfanb.png" group-title="NACIONAL",TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVE TV" tvg-name="VIVE TV"tvg-logo="https://i.ibb.co/R64tHRC/images-2.png" group-title="NACIONAL",VIVE TV
+http://tr.simotvgold.com:80/live/Elias2022/2022Elias/529666.ts
+#EXTINF:-1 tvg-id="TV FAMILIA" tvg-name="TV FAMILIA" tvg-logo="https://i.ibb.co/VVy9dmV/Tvfamilia-logo.png" group-title="NACIONAL",TV FAMILIA 
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="logo1.png" group-title="NACIONAL",ANTV
+http://servidor.com/canal1.ts
+#EXTINF:-1 tvg-id="TLT" tvg-name="TLT" tvg-logo="https://i.ibb.co/KLTYgXh/images-3.png" group-title="NACIONAL",TLT
+http://dctv.pro:8080/live/b5cM99k7VA/3bHsDxDWmk/127283.ts
+#EXTINF:-1 tvg-id="SHOWVEN TV" tvg-name="SHOWVEN TV" tvg-logo="https://i.ibb.co/m5hHBc0/images-2.png" group-title="NACIONAL",SHOW VE MUSICA
+http://tv.proyectox.vip:8080/live/josevflive/cf4c4ec22739/95290.ts
+#EXTINF:-1 tvg-id="IVC HD" tvg-name="IVC HD" tvg-logo="https://i.ibb.co/gJRgZ1q/images.png" group-title="NOTICIAS",IVC Network
+http://dctv.pro:8080/live/b5cM99k7VA/3bHsDxDWmk/127292.ts
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.ibb.co/1YCGd4F/images-1.png" group-title="NOTICIAS",CNNI
+http://aftqc.zzyy66bet.xyz:80/live/vi0225253/PKPe7TMXxG/895228.ts
+#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" tvg-logo="https://i.ibb.co/44wcdXm/descarga.png" group-title="NOTICIAS",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="https://i.ibb.co/bv5ZZWd/Tele-SUR-Logo-svg.png" group-title="NOTICIAS",Telesur
+http://dctv.pro:8080/live/b5cM99k7VA/3bHsDxDWmk/127302.ts
+#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" tvg-logo="logo2.png" group-title="NOTICIAS",BBC
+http://servidor.com/canal2.ts
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="logo1.png" group-title="NOTICIAS",DW
+http://servidor.com/canal1.ts
